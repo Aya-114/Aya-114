@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Aya 👋
 
-<!--
-**Aya-114/Aya-114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Passionate about  **Data Engineering**, **Data Science**, **AI/ML**, and **Problem Solving**.  
+💻 I enjoy working with C++, Python, Java, and building cool things with web technologies.  
+📊 Currently diving into Data Analysis projects and building my skills in Machine Learning.
 
-Here are some ideas to get you started:
+### Currently:
+- Learning advanced topics in **Data Science** & **Machine Learning**
+- Practicing problem solving on **Codeforces** with a 1000-problem challenge 💪
+- Exploring system design and open-source collaborati
+  
+📫 **Let’s connect!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [LinkedIn](https://www.linkedin.com/in/ayaalaa-)     |    [Gmail](alaahamed2413@gmail.com)
+
+
+
+[![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya-114)](https://github.com/anuraghazra/github-readme-stats)
