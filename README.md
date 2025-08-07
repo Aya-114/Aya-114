@@ -15,4 +15,4 @@
 
 
 
-[![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya-114)](https://github.com/anuraghazra/github-readme-stats)
+![Aya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aya-114&show_icons=true&theme=maroongold)
